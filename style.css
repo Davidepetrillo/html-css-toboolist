@@ -36,8 +36,6 @@ body {
     margin-right: 15%;
     margin-top: 5%;
     background-color: #fff;
-    margin-bottom: 0px;
-    padding-bottom: 0px;
 }
 
 /*--------------------*/
@@ -81,7 +79,7 @@ body {
     height: 100%;
     vertical-align: middle;
     display: inline-block;
-    border: 1px solid rgb(82, 235, 120);
+    border: 1.5px solid rgb(55, 241, 101);
     border-radius: 50%;
     padding: .2%;
     color: rgb(82, 235, 120);
@@ -90,10 +88,10 @@ body {
     height: 100%;
     vertical-align: middle;
     display: inline-block;
-    border: 1px solid rgb(255, 86, 86);
+    border: 1.5px solid rgb(255, 86, 86);
     border-radius: 50%;
     padding: .2%;
-    color: rgb(255, 86, 86);
+    color: rgb(243, 50, 50);
 }
 
 .buttonblue {
@@ -107,10 +105,7 @@ body {
     background-color: rgb(111, 174, 247);
     color: #fff;
 }
-.sezione {
-    margin-bottom: 70px;
-    margin-top: 50px;
-}
+
 .mini-sezione {
 height: 20px;
 line-height: 20px;
@@ -169,6 +164,16 @@ display: inline-block;
     padding: .1%;
     padding-left: 1%;
     padding-right:1%;
-    background-color: rgb(132, 243, 147);
+    background-color: rgb(181, 250, 91);
     color: #fff;
+}
+.sezionePlus {
+    height: 180px;
+}
+.sezione2 {
+    height: 80px;
+    margin-top: 40px;
+}
+.sezionePlus2 {
+    height: 200px;
 }
