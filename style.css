@@ -72,6 +72,7 @@ body {
 .listheader {
     font-size: large; 
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-bottom: 0px;
 }
 .list {
     display: inline-block;
@@ -106,10 +107,15 @@ body {
     background-color: rgb(111, 174, 247);
     color: #fff;
 }
+.sezione {
+    margin-bottom: 70px;
+    margin-top: 50px;
+}
 .mini-sezione {
 height: 20px;
 line-height: 20px;
-margin: 15px;
+margin-top: 0px;
+margin-bottom: 15px;
 }
 .buttonviolet {
     display: inline-block;
@@ -119,7 +125,7 @@ margin: 15px;
     padding: .1%;
     padding-left: 1%;
     padding-right:1%;
-    background-color: rgb(213, 97, 248);
+    background-color: rgb(147, 70, 170);
     color: #fff;
 }
 .buttongreen {
