@@ -36,6 +36,7 @@ body {
     margin-right: 15%;
     margin-top: 5%;
     background-color: #fff;
+    border-radius: 15px;
 }
 
 /*--------------------*/
@@ -104,6 +105,7 @@ body {
     padding-right:1%;
     background-color: rgb(111, 174, 247);
     color: #fff;
+    font-size: small;
 }
 
 .mini-sezione {
@@ -122,7 +124,9 @@ margin-bottom: 15px;
     padding-right:1%;
     background-color: rgb(147, 70, 170);
     color: #fff;
+    font-size: small;
 }
+
 .buttongreen {
 display: inline-block;
     border: 1px solid;
@@ -133,6 +137,7 @@ display: inline-block;
     padding-right:1%;
     background-color: rgb(57, 175, 97);
     color: #fff;
+    font-size: small;
 }
 .buttonorange {
     display: inline-block;
@@ -144,6 +149,7 @@ display: inline-block;
     padding-right:1%;
     background-color: rgb(250, 181, 102);
     color: #fff;
+    font-size: small;
 }
 .buttonpink {
     display: inline-block;
@@ -155,6 +161,7 @@ display: inline-block;
     padding-right:1%;
     background-color: rgb(250, 137, 199);
     color: #fff;
+    font-size: small;
 }
 .buttonlightgreen {
     display: inline-block;
@@ -166,6 +173,7 @@ display: inline-block;
     padding-right:1%;
     background-color: rgb(181, 250, 91);
     color: #fff;
+    font-size: small;
 }
 .sezionePlus {
     height: 180px;
